@@ -12,7 +12,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/jenkinsm13/metashape-mcp.git",
-        "sha": "991748b08435bbfc7a20cc71825ff7e7871ae538"
+        "sha": "edf071cef082309c264025738ab81562a0a6251d"
       },
       "homepage": "https://github.com/jenkinsm13/metashape-mcp"
     },
@@ -23,7 +23,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/jenkinsm13/resolve-mcp.git",
-        "sha": "69af2f0823c8cb495724e8f78335c5831aa34248"
+        "sha": "41ef0e83c3d52aeeb2fa87fa0bda49567e3294b9"
       },
       "homepage": "https://github.com/jenkinsm13/resolve-mcp"
     },
@@ -34,7 +34,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/jenkinsm13/resolve-assistant.git",
-        "sha": "e82386d198e2278b9db4423d53092f3a4e62d2f9"
+        "sha": "76fd84885cc4a6bb8459ac6f05c7b03dee340b28"
       },
       "homepage": "https://github.com/jenkinsm13/resolve-assistant"
     },
