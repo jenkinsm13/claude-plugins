@@ -1,0 +1,86 @@
+{
+  "name": "jenkinsm13-plugins",
+  "owner": {
+    "name": "Mike Jenkins",
+    "email": "jenkinsm13@users.noreply.github.com"
+  },
+  "plugins": [
+    {
+      "name": "metashape-mcp",
+      "description": "MCP server + skills for Agisoft Metashape Professional 2.3+ — dense reconstruction, texturing, tile export, DEM/ortho generation, photogrammetry QA, and more.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/jenkinsm13/metashape-mcp.git",
+        "sha": "991748b08435bbfc7a20cc71825ff7e7871ae538"
+      },
+      "homepage": "https://github.com/jenkinsm13/metashape-mcp"
+    },
+    {
+      "name": "resolve-mcp",
+      "description": "MCP server with 295+ tools for DaVinci Resolve scripting API (v20.3) plus skills for preflight QC, color grading, delivery, Dolby Vision, timeline management, and more.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/jenkinsm13/resolve-mcp.git",
+        "sha": "69af2f0823c8cb495724e8f78335c5831aa34248"
+      },
+      "homepage": "https://github.com/jenkinsm13/resolve-mcp"
+    },
+    {
+      "name": "resolve-assistant",
+      "description": "AI-powered video editing assistant using Gemini + DaVinci Resolve. Analyzes footage, plans edits, and builds timelines automatically.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/jenkinsm13/resolve-assistant.git",
+        "sha": "e82386d198e2278b9db4423d53092f3a4e62d2f9"
+      },
+      "homepage": "https://github.com/jenkinsm13/resolve-assistant"
+    },
+    {
+      "name": "ollama-mcp",
+      "description": "MCP server for local Ollama LLM inference — text generation, image analysis, model management.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/jenkinsm13/ollama-mcp.git",
+        "sha": "caf296ae60261dcd03e2260040221a8eef93459e"
+      },
+      "homepage": "https://github.com/jenkinsm13/ollama-mcp"
+    },
+    {
+      "name": "exiftool-mcp",
+      "description": "MCP server for reading, writing, and stripping image/video metadata via ExifTool.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/jenkinsm13/exiftool-mcp.git",
+        "sha": "4028598540309179c931edb561fa630b85ef40e1"
+      },
+      "homepage": "https://github.com/jenkinsm13/exiftool-mcp"
+    },
+    {
+      "name": "ffmpeg-mcp",
+      "description": "MCP server for video/audio processing via FFmpeg — transcoding, trimming, thumbnail extraction, audio extraction.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/jenkinsm13/ffmpeg-mcp.git",
+        "sha": "a1d29f504f42b9216c004ed1fec218071618e8f1"
+      },
+      "homepage": "https://github.com/jenkinsm13/ffmpeg-mcp"
+    },
+    {
+      "name": "imagemagick-mcp",
+      "description": "MCP server for image processing via ImageMagick — resize, convert, composite, batch operations.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/jenkinsm13/imagemagick-mcp.git",
+        "sha": "179680bb14fbb66d525e6df0715c49fdf7a34c87"
+      },
+      "homepage": "https://github.com/jenkinsm13/imagemagick-mcp"
+    }
+  ]
+}
