@@ -12,7 +12,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/jenkinsm13/metashape-mcp.git",
-        "sha": "0304f75b881469ba2ea5e29d37dec66615b8b505"
+        "sha": "f86de907164aeb5cfb7a0e42a5d572980e040b89"
       },
       "homepage": "https://github.com/jenkinsm13/metashape-mcp"
     },
