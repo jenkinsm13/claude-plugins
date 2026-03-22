@@ -12,7 +12,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/jenkinsm13/metashape-mcp.git",
-        "sha": "0e900ab8c71af101cebad5252c8d60aec73b9de2"
+        "sha": "0304f75b881469ba2ea5e29d37dec66615b8b505"
       },
       "homepage": "https://github.com/jenkinsm13/metashape-mcp"
     },
@@ -23,7 +23,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/jenkinsm13/resolve-mcp.git",
-        "sha": "41ef0e83c3d52aeeb2fa87fa0bda49567e3294b9"
+        "sha": "6adec6d0dcbcb55a63625222e0659ead7cf20f74"
       },
       "homepage": "https://github.com/jenkinsm13/resolve-mcp"
     },
@@ -34,7 +34,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/jenkinsm13/resolve-assistant.git",
-        "sha": "76fd84885cc4a6bb8459ac6f05c7b03dee340b28"
+        "sha": "d19670c0c4f127a7c7ba2238f65de0c2b563a5b9"
       },
       "homepage": "https://github.com/jenkinsm13/resolve-assistant"
     },
@@ -45,7 +45,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/jenkinsm13/ollama-mcp.git",
-        "sha": "caf296ae60261dcd03e2260040221a8eef93459e"
+        "sha": "12c2997ae95d1ca59cbefeb52406699ef352f650"
       },
       "homepage": "https://github.com/jenkinsm13/ollama-mcp"
     },
@@ -56,7 +56,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/jenkinsm13/exiftool-mcp.git",
-        "sha": "4028598540309179c931edb561fa630b85ef40e1"
+        "sha": "5ac7fae89929c6105dabb08bf8b121a333e2d3b4"
       },
       "homepage": "https://github.com/jenkinsm13/exiftool-mcp"
     },
@@ -67,7 +67,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/jenkinsm13/ffmpeg-mcp.git",
-        "sha": "a1d29f504f42b9216c004ed1fec218071618e8f1"
+        "sha": "8c2542db10d31eca9c7aa9812a8e79b84040db36"
       },
       "homepage": "https://github.com/jenkinsm13/ffmpeg-mcp"
     },
@@ -78,7 +78,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/jenkinsm13/imagemagick-mcp.git",
-        "sha": "179680bb14fbb66d525e6df0715c49fdf7a34c87"
+        "sha": "a138c8c1df363ccf4e67e1418ce7aee704133f1b"
       },
       "homepage": "https://github.com/jenkinsm13/imagemagick-mcp"
     }
