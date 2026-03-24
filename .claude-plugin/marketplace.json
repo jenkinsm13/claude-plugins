@@ -81,6 +81,17 @@
         "sha": "a138c8c1df363ccf4e67e1418ce7aee704133f1b"
       },
       "homepage": "https://github.com/jenkinsm13/imagemagick-mcp"
+    },
+    {
+      "name": "better-blender-mcp",
+      "description": "MCP server for Blender 5.1+ — 47 tools for scene management, mesh ops, viewport capture (including 4-pack multi-angle), import/export with tile naming, and photogrammetry terrain processing.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/jenkinsm13/better-blender-mcp.git",
+        "sha": "9b2ebe6c0e43399886861aaee613b05fe5171faf"
+      },
+      "homepage": "https://github.com/jenkinsm13/better-blender-mcp"
     }
   ]
 }
