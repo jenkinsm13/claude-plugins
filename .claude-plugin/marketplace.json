@@ -23,7 +23,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/jenkinsm13/resolve-mcp.git",
-        "sha": "6adec6d0dcbcb55a63625222e0659ead7cf20f74"
+        "sha": "eee0c7ea0e3cbd24add068948c7a9d4e22d2fc0a"
       },
       "homepage": "https://github.com/jenkinsm13/resolve-mcp"
     },
